@@ -1,2 +1,2 @@
 # bandDiagramDrawer
-drawing band diagrams and junctions
+Drawing band diagrams and junctions. Based on CERN ROOT.
